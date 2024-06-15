@@ -1,9 +1,0 @@
-{
-	"": {
-		"prefix": "sc",
-		"body": [
-		  "Scanner    = new Scanner(System.in)"
-		],
-		"description": ""
-	  }
-}

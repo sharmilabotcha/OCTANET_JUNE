@@ -1,5 +1,0 @@
-age,name
-15,hi
-16,helo
-17,world
-18,like
