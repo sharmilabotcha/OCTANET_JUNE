@@ -1,0 +1,9 @@
+{
+	"": {
+		"prefix": "sy",
+		"body": [
+		  "System.out.println();"
+		],
+		"description": ""
+	  }
+}

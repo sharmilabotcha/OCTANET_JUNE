@@ -1,0 +1,13 @@
+{
+	"": {
+		"prefix": "im",
+		"body": [
+		  "import java.utli.*;",
+		  "",
+		  "public class {",
+		  "",
+		  "}"
+		],
+		"description": ""
+	  }
+}

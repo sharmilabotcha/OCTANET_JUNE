@@ -269,9 +269,9 @@ footer {
     width: 45%;
 }
 .menu-item img {
-    width: 65%; /* Ensure images fill their containers */
-    max-width: 100%; /* Set maximum width to 200px */
-    height: auto; /* Maintain aspect ratio */
+    width: 65%; 
+    max-width: 100%;
+    height: auto;
     border-radius: 10px;
 }
 
